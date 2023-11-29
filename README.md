@@ -201,3 +201,4 @@ Inserting the value n.
 Extracting the root node.
 Searching for a node in a binary heap of size n.
 Authors ✒️
+Amal Hadraoui [amalia8029](https://github.com/amalia8029)
